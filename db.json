@@ -9,6 +9,21 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+   "userList": [
+        {
+          "username": "username",
+          "password": "password",
+          "role": "user",
+          "name": "Flank",
+          "tableNumber": "54"
+        },
+        {
+          "username": "admin",
+          "password": "admin",
+          "role": "admin",
+          "name": "LEON",
+          "tableNumber": "0"
+        }
+      ]
   }
 }
